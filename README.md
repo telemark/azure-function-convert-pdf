@@ -34,6 +34,13 @@ POST testdata (linux)
 $ curl http://localhost:7071/api/ConvertToPdf -d $(base64 -w0 test/data/test.docx)
 ```
 
+# Deploy in Azure
+
+
+Then you need to create a "App Service plan" in azure portal.
+
+![Azure docker](docs/azure-docker.png)
+
 # License
 
 [MIT](LICENSE)
