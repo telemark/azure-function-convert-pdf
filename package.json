@@ -46,6 +46,7 @@
     }
   },
   "dependencies": {
+    "@shelf/aws-lambda-libreoffice": "1.0.2",
     "uuid-random": "1.0.6"
   }
 }

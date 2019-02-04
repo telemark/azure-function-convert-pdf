@@ -1,7 +1,6 @@
 # IDE
 .idea
 .vs
-.vscode
 
 # Mac OS
 .DS_Store
@@ -94,3 +93,4 @@ project.lock.json
 .secrets
 appsettings.json
 local.settings.json
+.vscode/

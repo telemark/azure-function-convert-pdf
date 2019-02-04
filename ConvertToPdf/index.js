@@ -1,4 +1,4 @@
-const convert = require('../lib/convert')
+const convert = require('./convert')
 
 module.exports = async function (context, request) {
   if (request.body) {
