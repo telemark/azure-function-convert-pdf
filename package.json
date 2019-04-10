@@ -4,11 +4,10 @@
   "version": "1.0.0",
   "license": "MIT",
   "author": {
-    "name": "Geir Gåsodden",
-    "email": "geir.gasodden@pythonia.no",
-    "url": "https://github.com/zrrrzzt"
+    "name": "Jonas Enge",
+    "email": "jonas.enge@gmail.com",
+    "url": "https://github.com/maccyber"
   },
-  "main": "SendMail/index.js",
   "engines": {
     "node": ">=10.0.0"
   },
